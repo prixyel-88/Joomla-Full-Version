@@ -237,3 +237,6 @@ This repository serves as the official landing page for Joomla!. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Joomla! today!**
+
+---
+**Last updated:** 2026-09-12 07:50:57 UTC
