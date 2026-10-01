@@ -239,4 +239,4 @@ This repository serves as the official landing page for Joomla!. The software is
 **Get the most recent version of Joomla! today!**
 
 ---
-**Last updated:** 2026-10-01 08:26:04 UTC
+**Last updated:** 2026-10-01 16:03:39 UTC
